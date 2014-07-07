@@ -1,0 +1,6 @@
+# Ignore compiled Python
+*.pyc
+
+# Ignore virtualenv environment
+venv
+ENV
